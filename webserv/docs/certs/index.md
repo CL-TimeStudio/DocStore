@@ -3,6 +3,8 @@ layout: page
 title: Professional Certifications & Coursework
 ---
 
+---
+
 ## Executive AI Programs (MIT Sloan & CSAIL)
 
 - **[MIT Sloan + CSAIL — Artificial Intelligence: Implications for Business Strategy](https://www.credential.net/c374d944-1545-4b06-8713-c49be9630d8b)**  
