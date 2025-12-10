@@ -7,7 +7,7 @@ title: Professional Certifications, Achievements & Coursework
 
 ---
 
-## [Lean Six Sigma & Process Excellence](https://www.credential.net/profile/colin-lynch/wallet)
+## Lean Six Sigma & Process Excellence
 
 - **[Lean Six Sigma Practitioner II (LSSP-II)](https://www.credential.net/57e66e6e-a733-4f32-9536-82bb3f967988)**  
 - **[Lean Six Sigma Master Black Belt (LSSMBB)](https://www.credential.net/8664cffe-98c4-4762-82a9-79e987513936)**  
@@ -39,7 +39,7 @@ title: Professional Certifications, Achievements & Coursework
 
 ---
 
-## [Executive AI Programs (MIT Sloan & CSAIL)](https://www.credential.net/profile/colin-lynch/wallet)
+## Executive AI Programs (MIT Sloan & CSAIL)
 
 - **[MIT Sloan + CSAIL — Artificial Intelligence: Implications for Business Strategy](https://www.credential.net/c374d944-1545-4b06-8713-c49be9630d8b)**  
 - **[MIT Sloan — Making AI Work: Machine Intelligence for Business and Society](https://www.credential.net/30719a0d-d7a3-4a73-b526-ae25bbcef4d7)**  
@@ -89,7 +89,7 @@ These represent ongoing, multi-course, multi-challenge work across the Microsoft
 
 ---
 
-## **Professional Coursework & Specialized Training**  
+## Professional Coursework & Specialized Training  
 *(No URLs provided — corporate or internal programs)*
 
 - **Beyond SAFe® – Flow@Scale**  
