@@ -2,5 +2,5 @@ theme: minima
 markdown: kramdown
 title: Colin Lynch – DocStore
 head_scripts:
-  - /DocStore/favicon.ico
+  - /DocStore/webserv/favicon.ico
   
