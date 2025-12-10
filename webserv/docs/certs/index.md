@@ -65,26 +65,21 @@ title: Professional Certifications & AI Achievements
 
 ## Cloud & Service Management
 
-- **[Microsoft Certified: Azure AI Fundamentals (AI-900)]()**  
-  Provider: Microsoft  
-  Issued: Jan 2024  
-  Credential ID: ADE29C169DAB67D0  
-
 - **[ITIL® 4 Foundation]()**  
   Provider: PeopleCert  
-  Issued: Nov 2024  
-  Credential ID: GR671712775CL  
-
+  
 ---
 
 ## Microsoft AI Learning Profile & Trophies  
 
 These represent ongoing, multi-course, multi-challenge work across the Microsoft AI ecosystem.
 
-- **[Microsoft Learn (AI) — Ongoing Profile]()**  
+- **[Microsoft Learn (AI) — Ongoing Profile](https://learn.microsoft.com/en-us/users/colin-lynch/)**  
   Provider: Microsoft  
-  Issued: Aug 2023 (continuous learning)  
   Credential ID: Continuous Learning & Development — see credential link for current progress  
+
+- **[Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/users/colin-lynch/credentials/ade29c169dab67d0)**  
+  Provider: Microsoft  
 
 - **[AI Skills Challenges (5×, 2024)](https://learn.microsoft.com/api/achievements/share/en-us/Colin-Lynch/YQT74K7R?sharingId=8728656CEBDD9E42)**  
   Tracks completed:  
@@ -103,7 +98,7 @@ These represent ongoing, multi-course, multi-challenge work across the Microsoft
 
 ## Leadership, Dialogue & Management
 
-- **[OKR Certification: Leadership and Goal Setting with John Doerr]()**  
+- **[OKR Certification: Leadership and Goal Setting with John Doerr](https://coursera.org/share/7db88706ef31aca8930cb13cf47d9d5c)**  
   Provider: Measure What Matters | OKR Resources  
   Issued: Jun 2024  
   Credential ID: FLPZ3GFN6PQE  
