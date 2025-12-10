@@ -58,8 +58,8 @@ These represent ongoing, multi-course, multi-challenge work across the Microsoft
 
 - **[Microsoft Learn (AI) — Ongoing Profile](https://learn.microsoft.com/en-us/users/colin-lynch/)**  
 - **[Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/users/colin-lynch/credentials/ade29c169dab67d0)**  
-- **[AI Skills Challenges (5×, 2024)](https://learn.microsoft.com/api/achievements/share/en-us/Colin-Lynch/YQT74K7R?sharingId=8728656CEBDD9E42)**  
-- **[Ignite Challenges (2×, 2024)](https://learn.microsoft.com/en-us/users/colin-lynch/achievements/3rv4rlbh)**  
+- **[Microsoft AI Skills Challenges (5×)](https://learn.microsoft.com/api/achievements/share/en-us/Colin-Lynch/YQT74K7R?sharingId=8728656CEBDD9E42)**  
+- **[Microsoft Ignite Challenges - 2024 (2×)](https://learn.microsoft.com/en-us/users/colin-lynch/achievements/3rv4rlbh)**  
 
 ---
 
