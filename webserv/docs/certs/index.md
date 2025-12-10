@@ -22,6 +22,8 @@ title: Professional Certifications, Achievements & Coursework
 ## Advanced Agile & Product Certifications
 
 - **[Agile Leadership](https://www.credential.net/199b01eb-068a-4a79-b41d-d7f8b28da02e)**  
+- **[Large Scale Scrum and Systems Thinking (LeSS)](https://less.works/profiles/colin-lynch)**
+- **[Agile 201: Establish Flow](./img/CL-Agile201Flow.pdf)**  
 - **[Professional Agile Leadership I (PAL I)](https://www.scrum.org/user/470643)**  
 - **[Professional Agile Leadership – Evidence-Based Management (PAL-EBM)](https://www.scrum.org/user/470643)**  
 - **[Professional Scrum Master II (PSM II)](https://www.scrum.org/user/470643)**  
@@ -30,7 +32,6 @@ title: Professional Certifications, Achievements & Coursework
 - **[Professional Scrum Product Owner I (PSPO I)](https://www.scrum.org/user/470643)**  
 - **[Professional Scrum Developer I (PSD I)](https://www.scrum.org/user/470643)**  
 - **[Scaled Professional Scrum (SPS)](https://www.scrum.org/user/470643)**  
-- **[Large Scale Scrum and Systems Thinking (LeSS)](https://less.works/profiles/colin-lynch)**  
 - **[Professional Scrum with Kanban I (PSK I)](https://www.scrum.org/user/470643)**  
 - **[Professional Scrum with User Experience I (PSU I)](https://www.scrum.org/user/470643)**  
 - **[Professional Scrum Facilitation Skills (PSFS)](https://www.scrum.org/user/470643)**  
@@ -47,9 +48,8 @@ title: Professional Certifications, Achievements & Coursework
 
 ## Cloud & Service Management
 
-- **[ITIL® 4 Foundation]()**  
-  Provider: PeopleCert  
-
+- **[ITIL® 4 Foundation](./img/CL-ITILFoundations.png)**  
+  
 ---
 
 ## Microsoft AI Learning Profile & Trophies
@@ -79,7 +79,7 @@ These represent ongoing, multi-course, multi-challenge work across the Microsoft
 - **[OKR Certification: Leadership and Goal Setting with John Doerr](https://coursera.org/share/7db88706ef31aca8930cb13cf47d9d5c)**  
 - **[Inclusive Leadership](https://www.linkedin.com/learning/certificates/6f1ac42569479f4e9e1ff55c1b13e11f56f19487389b50c62d36c7cd3863bc58)**  
 - **[Crucial Conversations for Mastering Dialogue](./img/CL-CrucialConversations.png)**  
-- **[Situational Leadership II]()**  
+- **[Situational Leadership II](./img/CL-SituationalLeadership.png)**  
 
 ---
 
@@ -92,7 +92,6 @@ These represent ongoing, multi-course, multi-challenge work across the Microsoft
 ## **Professional Coursework & Specialized Training**  
 *(No URLs provided — corporate or internal programs)*
 
-- **Agile 201: Establish Flow**  
 - **Beyond SAFe® – Flow@Scale**  
 - **Crucial Conversations (course)**  
 - **Dale Carnegie Course**  
