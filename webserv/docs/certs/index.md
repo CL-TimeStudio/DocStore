@@ -23,7 +23,7 @@ title: Professional Certifications, Achievements & Coursework
 
 - **[Agile Leadership](https://www.credential.net/199b01eb-068a-4a79-b41d-d7f8b28da02e)**  
 - **[Large Scale Scrum and Systems Thinking (LeSS)](https://less.works/profiles/colin-lynch)**
-- **[Agile 201: Establish Flow](./img/CL-Agile201Flow.pdf)**  
+- **[Agile 201: Establish Flow](./img/CL-Agile201Flow.png)**  
 - **[Professional Agile Leadership I (PAL I)](https://www.scrum.org/user/470643)**  
 - **[Professional Agile Leadership – Evidence-Based Management (PAL-EBM)](https://www.scrum.org/user/470643)**  
 - **[Professional Scrum Master II (PSM II)](https://www.scrum.org/user/470643)**  
