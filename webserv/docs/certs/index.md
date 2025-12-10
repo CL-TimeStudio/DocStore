@@ -6,6 +6,14 @@ title: Professional Certifications, Achievements & Coursework
 # Professional Certifications, Achievements & Coursework
 
 ---
+## Microsoft AI Learning Profile & Certifications
+
+- **[Microsoft Learn (AI) — Ongoing Profile](https://learn.microsoft.com/en-us/users/colin-lynch/)**  
+- **[Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/users/colin-lynch/credentials/ade29c169dab67d0)**  
+- **[Microsoft AI Skills Challenges (5×)](https://learn.microsoft.com/api/achievements/share/en-us/Colin-Lynch/YQT74K7R?sharingId=8728656CEBDD9E42)**  
+- **[Microsoft Ignite Challenges - 2024 (2×)](https://learn.microsoft.com/en-us/users/colin-lynch/achievements/3rv4rlbh)**  
+
+---
 
 ## Lean Six Sigma & Process Excellence
 
@@ -52,17 +60,6 @@ title: Professional Certifications, Achievements & Coursework
   
 ---
 
-## Microsoft AI Learning Profile & Trophies
-
-These represent ongoing, multi-course, multi-challenge work across the Microsoft AI ecosystem.
-
-- **[Microsoft Learn (AI) — Ongoing Profile](https://learn.microsoft.com/en-us/users/colin-lynch/)**  
-- **[Microsoft Certified: Azure AI Fundamentals (AI-900)](https://learn.microsoft.com/en-us/users/colin-lynch/credentials/ade29c169dab67d0)**  
-- **[Microsoft AI Skills Challenges (5×)](https://learn.microsoft.com/api/achievements/share/en-us/Colin-Lynch/YQT74K7R?sharingId=8728656CEBDD9E42)**  
-- **[Microsoft Ignite Challenges - 2024 (2×)](https://learn.microsoft.com/en-us/users/colin-lynch/achievements/3rv4rlbh)**  
-
----
-
 ## AI & Generative AI Coursework
 
 - **[AI Python: Basics of AI Python Coding](https://learn.deeplearning.ai/accomplishments/a94bfd69-7bf5-4c31-9271-7172f1e5cc7e?usp=sharing)**  
@@ -89,8 +86,7 @@ These represent ongoing, multi-course, multi-challenge work across the Microsoft
 
 ---
 
-## Professional Coursework & Specialized Training  
-*(No URLs provided — corporate or internal programs)*
+## Professional Comleted Courses & Specialized Training  
 
 - **Beyond SAFe® – Flow@Scale**  
 - **Crucial Conversations (course)**  
