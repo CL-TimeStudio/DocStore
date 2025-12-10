@@ -1,10 +1,6 @@
 ---
 layout: page
-title: Professional Certifications, Achievements & Coursework
----
-
-# Professional Certifications, Achievements & Coursework
-
+title: Professional Certifications & Coursework
 ---
 
 ## Executive AI Programs (MIT Sloan & CSAIL)
