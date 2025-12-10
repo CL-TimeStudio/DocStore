@@ -19,22 +19,22 @@ title: Professional Certifications, Achievements & Coursework
 
 ---
 
-## [Advanced Agile & Product Certifications](https://www.scrum.org/user/470643)
+## Advanced Agile & Product Certifications
 
 - **[Agile Leadership](https://www.credential.net/199b01eb-068a-4a79-b41d-d7f8b28da02e)**  
-- **[Professional Agile Leadership I (PAL I)](https://www.credly.com/badges/ab588de2-1000-49aa-9cee-0d846d339142)**  
-- **[Professional Agile Leadership – Evidence-Based Management (PAL-EBM)](https://www.credly.com/badges/19345ae2-801c-43c6-9587-7e94a8cb8ce9)**  
-- **[Professional Scrum Master II (PSM II)](https://www.credly.com/badges/0f25255a-7330-409a-a8b5-0ab812a16606)**  
-- **[Professional Scrum Master I (PSM I)](https://www.credly.com/badges/ae0697be-e29f-424a-80fd-d359c3ad7dca)**  
-- **[Professional Scrum Product Owner II (PSPO II)](https://www.credly.com/badges/a9137620-1a6d-44e9-8e38-6f0a653a2f11)**  
-- **[Professional Scrum Product Owner I (PSPO I)](https://www.credly.com/badges/e6717874-d119-4edc-ae63-a34cf515ae60)**  
-- **[Professional Scrum Developer I (PSD I)](https://www.credly.com/badges/f9686db6-78ef-4bac-9644-59521a59144d)**  
-- **[Scaled Professional Scrum (SPS)](https://www.credly.com/badges/1b79e864-d447-4671-a275-2adb4e99e2db)**  
+- **[Professional Agile Leadership I (PAL I)](https://www.scrum.org/user/470643)**  
+- **[Professional Agile Leadership – Evidence-Based Management (PAL-EBM)](https://www.scrum.org/user/470643)**  
+- **[Professional Scrum Master II (PSM II)](https://www.scrum.org/user/470643)**  
+- **[Professional Scrum Master I (PSM I)](https://www.scrum.org/user/470643)**  
+- **[Professional Scrum Product Owner II (PSPO II)](https://www.scrum.org/user/470643)**  
+- **[Professional Scrum Product Owner I (PSPO I)](https://www.scrum.org/user/470643)**  
+- **[Professional Scrum Developer I (PSD I)](https://www.scrum.org/user/470643)**  
+- **[Scaled Professional Scrum (SPS)](https://www.scrum.org/user/470643)**  
 - **[Large Scale Scrum and Systems Thinking (LeSS)](https://less.works/profiles/colin-lynch)**  
-- **[Professional Scrum with Kanban I (PSK I)](https://www.credly.com/badges/5d538028-c5cc-49ea-a2fa-a68a78b48da5)**  
-- **[Professional Scrum with User Experience I (PSU I)](https://www.credly.com/badges/f163672b-ff3a-4461-bb3a-0e96863ca8c4)**  
-- **[Professional Scrum Facilitation Skills (PSFS)](https://www.credly.com/badges/98a2a9e7-9de0-4a10-a769-5f67ec841a7e)**  
-- **[Professional Scrum Product Backlog Management Skills (PSPBM)](https://www.credly.com/badges/ba0cda0e-0883-4212-a8e9-a3b901c6c0a2)**  
+- **[Professional Scrum with Kanban I (PSK I)](https://www.scrum.org/user/470643)**  
+- **[Professional Scrum with User Experience I (PSU I)](https://www.scrum.org/user/470643)**  
+- **[Professional Scrum Facilitation Skills (PSFS)](https://www.scrum.org/user/470643)**  
+- **[Professional Scrum Product Backlog Management Skills (PSPBM)](https://www.scrum.org/user/470643)**  
 
 ---
 
@@ -75,9 +75,10 @@ These represent ongoing, multi-course, multi-challenge work across the Microsoft
 
 ## Leadership, Dialogue & Management
 
+- **[Dale Carnegie Course - Leadership Skills]()**  
 - **[OKR Certification: Leadership and Goal Setting with John Doerr](https://coursera.org/share/7db88706ef31aca8930cb13cf47d9d5c)**  
 - **[Inclusive Leadership](https://www.linkedin.com/learning/certificates/6f1ac42569479f4e9e1ff55c1b13e11f56f19487389b50c62d36c7cd3863bc58)**  
-- **[Crucial Conversations for Mastering Dialogue]()**  
+- **[Crucial Conversations for Mastering Dialogue](./img/CL-CrucialConversations.png)**  
 - **[Situational Leadership II]()**  
 
 ---
