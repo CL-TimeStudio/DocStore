@@ -75,7 +75,7 @@ These represent ongoing, multi-course, multi-challenge work across the Microsoft
 
 ## Leadership, Dialogue & Management
 
-- **[Dale Carnegie Course - Leadership Skills]()**  
+- **[Dale Carnegie Course - Leadership Skills](./img/CL-DaleCarnegie.pdf)**  
 - **[OKR Certification: Leadership and Goal Setting with John Doerr](https://coursera.org/share/7db88706ef31aca8930cb13cf47d9d5c)**  
 - **[Inclusive Leadership](https://www.linkedin.com/learning/certificates/6f1ac42569479f4e9e1ff55c1b13e11f56f19487389b50c62d36c7cd3863bc58)**  
 - **[Crucial Conversations for Mastering Dialogue](./img/CL-CrucialConversations.png)**  
@@ -85,7 +85,7 @@ These represent ongoing, multi-course, multi-challenge work across the Microsoft
 
 ## Requirements & Analysis
 
-- **[The Quest for Excellent Requirements: Requirements Producer]()**  
+- **[The Quest for Excellent Requirements: Requirements Producer](./img/CL-RequirementsQuest.png)**  
 
 ---
 
