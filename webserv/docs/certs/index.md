@@ -26,7 +26,7 @@ title: Professional Certifications & Coursework
 - **[Lean Six Sigma Practitioner II (LSSP-II)](https://www.credential.net/57e66e6e-a733-4f32-9536-82bb3f967988)**  
 - **[Lean Six Sigma Master Black Belt (LSSMBB)](https://www.credential.net/8664cffe-98c4-4762-82a9-79e987513936)**  
 - **[Lean Six Sigma Black Belt (LSSBB)](https://www.credential.net/4f4832b4-3e7f-4906-b2eb-c46d298b967d)**  
-- **[Lean Six Sigma Practitioner I (LLSSP-I)](https://www.credential.net/15d02b96-d036-484d-b911-497a059b36c2)**  
+- **[Lean Six Sigma Practitioner I (LSSP-I)](https://www.credential.net/15d02b96-d036-484d-b911-497a059b36c2)**  
 - **[Certified Process Improvement Specialist (CPIS)](https://www.credential.net/cf0eae63-aef0-4254-aa12-ab3244fc39e5)**  
 - **[Lean Six Sigma Green Belt (LSSGB)](https://www.credential.net/afefc682-4bf3-41a0-a5ed-7c213cca64f8)**  
 - **[Lean Six Sigma Yellow Belt (LSSYB)](https://www.credential.net/f14a0de1-7def-4616-9210-e277af8421a7)**  
