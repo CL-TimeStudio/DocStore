@@ -35,6 +35,7 @@ title: Professional Certifications & Coursework
 
 ## Advanced Agile & Product Certifications
 
+- **[PMI-Disciplined Agile Essentials](https://www.credly.com/earner/earned/badge/5d1dd554-6b44-4347-b37f-438e4c2847c5)**  
 - **[Agile Leadership](https://www.credential.net/199b01eb-068a-4a79-b41d-d7f8b28da02e)**  
 - **[Large Scale Scrum and Systems Thinking (LeSS)](https://less.works/profiles/colin-lynch)**
 - **[Agile 201: Establish Flow](./img/CL-Agile201Flow.png)**  
